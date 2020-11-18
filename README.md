@@ -1,1 +1,1 @@
-# Linear-Algebra-Mini-Project
+# Does a simple image compression using SVD
