@@ -1,1 +1,1 @@
-# Does a simple image compression using SVD
+# Lossy Image Compression using SVD
